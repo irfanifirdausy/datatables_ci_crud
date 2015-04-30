@@ -1,5 +1,7 @@
 CRUD with JQuery datatables, Code Igniter, Bootstrap 
 
+You can do the process create, read, update, delete data in the database. Then able to export to csv, excel and pdf easily
+
 Install Instructions
 ===========================================
 
