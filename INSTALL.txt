@@ -7,16 +7,20 @@ Install Instructions
 
 3. Setting config database at application/config/database.php, see this section:
 ....
-$ db ['default'] ['hostname'] = 'localhost';
-$ db ['default'] ['username'] = 'user db';
-$ db ['default'] ['password'] = 'db password';
-$ db ['default'] ['database'] = 'test';
+'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => 'yourpassword',
+	'database' => 'test',
+	'dbdriver' => 'mysqli',
 ....
 
 adjust the settings of your database.
 
 4. Run the browser http://localhost/datatables_ci_crud
     The application is ready for use.
+
+
+
 
 
 
