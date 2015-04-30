@@ -16,7 +16,7 @@ Install Instructions
 	'dbdriver' => 'mysqli',
 ....
 
-adjust the settings of your database.
+    adjust the settings of your database.
 
 4. Run the browser http://localhost/datatables_ci_crud
     The application is ready for use.
